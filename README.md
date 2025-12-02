@@ -7,7 +7,9 @@ pip install transformers datasets sentencepiece accelerate optimum-intel neural-
 ```
 
 Use t5-train.py for training
+
 Use quantize.py for quantisizing the trained model (makes the model smaller)
+
 Use testing.py for testing
 
 Sentence dataset credit - https://huggingface.co/datasets/jfernandez/cebuano-filipino-sentences
